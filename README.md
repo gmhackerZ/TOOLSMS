@@ -12,7 +12,7 @@ pkg install python2
 
 pkg install python
 
-git clone 
+git clone https://github.com/gmhackerZ/TOOLSMS
 
 ls
 
